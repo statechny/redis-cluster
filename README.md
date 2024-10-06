@@ -1,4 +1,4 @@
-# Redis Cluster JS Homework
+# Redis Cluster
 
 ## Overview
 This repository contains the implementation of a Redis master-slave cluster, tests for different eviction strategies, and a probabilistic cache wrapper.
